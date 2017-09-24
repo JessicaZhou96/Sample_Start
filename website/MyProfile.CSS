@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.img{
+    height: 400px;
+    width: 50% * height;
+}
+
+.italic{
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+#welcome{
+    font-style: italic;
+}
